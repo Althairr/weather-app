@@ -10,6 +10,7 @@ const Spinner = () => {
                 className="w-[200px] m-auto block" 
                 src={spinner} 
                 alt="loading.."
+                obje
                 />
             </div>
         )
